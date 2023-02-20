@@ -1,5 +1,6 @@
 # MMA_Demos
 Repo for Multimessenger Astrophysics demos.
+Author: Amanda Beck
 
 ## Some Git Commands:
 ### Cloning Repository:
